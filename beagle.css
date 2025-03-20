@@ -1,0 +1,14 @@
+.about-section {
+    border: 1px solid black;     
+    border-radius: 1px;     
+    background-color: #f9f9f9; 
+    padding: 10px;
+           
+}
+a {
+    text-decoration: none;  /* Removes the underline */
+    color: blue;            /* Optional: Change the text color */
+}
+.image-gallery{
+    padding-bottom: 15px;
+}
